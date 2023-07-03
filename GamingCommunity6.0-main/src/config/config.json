@@ -1,0 +1,57 @@
+{
+    "bot" : {
+        "token" : "",
+        "clientId" : "",
+        "guildId" : ""
+    },
+    "channels": {
+        "memberCount" : "",
+        "welcome" : "",
+        "rules" : "",
+        "roles" : "",
+        "candidature" : "",
+        "spostami" : "",
+        "privateCreate" : "",
+        "animeCreate" : "",
+        "modsLogs" : "",
+        "serverLogs" : ""
+    },
+    "categorie" : {
+        "animeCreate" : "",
+        "privateCreate" : ""
+    },
+    "roles" : {
+        "adminSupp" : "",
+        "staff" : "",
+        "membro" : "",
+        "keysBannerRole" : ""
+    },
+    "perms" : {
+        "keys" : {
+            "VIEW_CHANNEL" : true,
+            "MANAGE_CHANNELS" : false,
+            "MANAGE_ROLES" : false,
+            "CREATE_INSTANT_INVITE" : false,	
+            "CONNECT" : true,
+            "SPEAK" : true,
+            "STREAM" : true,
+            "USE_VAD" : true,
+            "PRIORITY_SPEAKER" : false,
+            "MUTE_MEMBERS" : false,
+            "DEAFEN_MEMBERS" : false,
+            "MOVE_MEMBERS" : true,
+            "SEND_MESSAGES" : true,
+            "EMBED_LINKS" : true,
+            "ATTACH_FILES" : true,
+            "ADD_REACTIONS" : true,
+            "USE_EXTERNAL_EMOJIS" : true,
+            "USE_EXTERNAL_STICKERS" : true,
+            "MENTION_EVERYONE" : false,
+            "MANAGE_MESSAGES" : false,
+            "READ_MESSAGE_HISTORY" : true,
+            "SEND_TTS_MESSAGES" : false,
+            "USE_APPLICATION_COMMANDS" : true,
+            "MANAGE_EVENTS" : false
+        }
+    }
+}
